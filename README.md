@@ -1,7 +1,7 @@
 ![sputnik](http://touk.github.io/sputnik/images/logo-color-bgtransparent-small.png)
 
 > Static code review for your Gerrit and Stash patchsets. Runs Checkstyle, PMD, SpotBugs (formerly known as FindBugs), Scalastyle, CodeNarc, JSLint, JSHint, TSLint and Detekt for you!
-
+test
 [![Build Status](https://img.shields.io/travis/TouK/sputnik/master.svg?style=flat-square)](https://travis-ci.org/TouK/sputnik)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/pl.touk/sputnik/badge.svg?style=flat-square)](https://maven-badges.herokuapp.com/maven-central/pl.touk/sputnik)
 [![Coverage Status](https://img.shields.io/codecov/c/github/TouK/sputnik/master.svg?style=flat-square)](https://codecov.io/github/TouK/sputnik)
